@@ -1,5 +1,5 @@
 # namer_app
-[![Watch the video](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app.png)](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app_video.mp4)
+[![Watch the video](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app.png)](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app_video.mp4?raw=true)
 
 The app generates names that sound good, such as "newstay," "lightstream," "mainbrake," or "graypine." The user can request another name, mark the current one as a favorite, and review the list of favorite names on a separate page. The app is responsive and adapts to different screen sizes.
 
