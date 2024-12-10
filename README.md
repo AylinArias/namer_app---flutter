@@ -1,20 +1,44 @@
-<<<<<<< HEAD
-# namer_app---flutter
-=======
 # namer_app
+[![Watch the video](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app.png)](https://github.com/AylinArias/namer_app---flutter/blob/main/namer_app_video.mp4)
 
-A new Flutter project.
+The app generates names that sound good, such as "newstay," "lightstream," "mainbrake," or "graypine." The user can request another name, mark the current one as a favorite, and review the list of favorite names on a separate page. The app is responsive and adapts to different screen sizes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Steps to run the project
 
-A few resources to get you started if this is your first Flutter project:
+1. **Clone the repository**
+   - Open your terminal or command line and navigate to the directory where you want to store the project.
+   - Clone the repository with the following command:
+   
+     ```bash
+     git clone https://github.com/AylinArias/namer_app---flutter.git
+     ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Install dependencies**
+   - Navigate to the project folder:
+   
+     ```bash
+     cd namer_app---flutter
+     ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 836628e (namer_app)
+   - Make sure you have [Flutter installed](https://flutter.dev/docs/get-started/install).
+   - Install the necessary dependencies for the project:
+   
+     ```bash
+     flutter pub get
+     ```
+
+3. **Run the application**
+   - Connect an Android or iOS device, or use an emulator.
+   - Run the project with the following command:
+   
+     ```bash
+     flutter run
+     ```
+
+---
+
+You're all set! The app should start running on your device or emulator.
+
+If you encounter any issues or errors, check the Flutter documentation or make sure all necessary tools are installed correctly.
